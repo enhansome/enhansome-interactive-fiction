@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T04:29:17.446Z",
-    "original_repository": "tajmone/awesome-interactive-fiction",
-    "original_repository_id": 26676466,
+    "last_updated": "2026-08-27T11:44:03.072Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 26676466,
+      "language": "Shell",
+      "last_commit": "2026-08-11T23:22:07Z",
+      "owner": "tajmone",
+      "repo": "awesome-interactive-fiction",
+      "stars": 221
+    },
     "original_repository_sha": "95464996048478ee06da6c7cfa5dec36b04d2359",
     "enhanced_repository": "enhansome/enhansome-interactive-fiction",
     "enhanced_repository_description": null,
