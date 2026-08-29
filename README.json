@@ -1,15 +1,28 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T06:53:24.782Z",
+    "last_updated": "2026-08-29T04:07:26.316Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of interactive fiction frameworks, tools, and resources",
+      "homepage": "https://git.io/awesome-if",
       "id": 26676466,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-11T23:22:07Z",
+      "open_issues": 2,
       "owner": "tajmone",
       "repo": "awesome-interactive-fiction",
-      "stars": 222
+      "stars": 222,
+      "topics": [
+        "authoring-tool",
+        "awesome",
+        "awesome-list",
+        "if",
+        "interactive-fiction",
+        "interpreter",
+        "text-adventures"
+      ]
     },
     "original_repository_sha": "95464996048478ee06da6c7cfa5dec36b04d2359",
     "enhanced_repository": "enhansome/enhansome-interactive-fiction",
