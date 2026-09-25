@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-24T01:19:19.557Z",
+    "last_updated": "2026-09-25T01:24:52.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of interactive fiction frameworks, tools, and resources",
@@ -9,8 +9,8 @@
       "id": 26676466,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-11T23:22:07Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-24T20:08:19Z",
+      "open_issues": 3,
       "owner": "tajmone",
       "repo": "awesome-interactive-fiction",
       "stars": 223,
@@ -24,7 +24,7 @@
         "text-adventures"
       ]
     },
-    "original_repository_sha": "95464996048478ee06da6c7cfa5dec36b04d2359",
+    "original_repository_sha": "d504c11736571751d86c217f4c66edd77d695c5e",
     "enhanced_repository": "enhansome/enhansome-interactive-fiction",
     "enhanced_repository_description": null,
     "title": "Awesome interactive fiction with stars"
