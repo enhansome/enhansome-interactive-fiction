@@ -2,7 +2,7 @@
 
 \= Awesome Interactive Fiction link:<https://awesome.re[image:https://awesome.re/badge.svg[]^,title="Awesome>"]
 Tristano Ajmone <tajmone@gmail.com>
-2026-09-24
+2026-09-26
 :lang: en
 // Sections & Numbering:
 :sectanchors:
@@ -387,7 +387,7 @@ See also:
 == The Den
 
 * https://foxden-labs.github.io/[foxden-labs.github.io^]
-* https://github.com/foxden-labs/the-den[github.com/foxden-labs/the-den^]
+* https://github.com/foxden-labs/foxden-labs.github.io[github.com/foxden-labs/foxden-labs.github.io^]
 
 An open-source, offline-first, single-file HTML interactive fiction editor and reader featuring isolated narrative branching, an auto-crawling spoiler-proof wiki, and custom glyph rendering. Focused on accessibility, ease of use, and comfort. Available as a web app or Android APK.
 
@@ -1073,4 +1073,4 @@ For more information, see also:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
