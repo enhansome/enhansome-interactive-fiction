@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-17T05:01:43.398Z",
+    "last_updated": "2026-11-18T04:10:27.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of interactive fiction frameworks, tools, and resources",
@@ -13,7 +13,7 @@
       "open_issues": 3,
       "owner": "tajmone",
       "repo": "awesome-interactive-fiction",
-      "stars": 226,
+      "stars": 227,
       "topics": [
         "authoring-tool",
         "awesome",
